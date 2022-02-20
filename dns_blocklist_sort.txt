@@ -16,7 +16,6 @@
 ||*.cm^
 ||*.cn^
 ||*.co^
-||*.co^
 ||*dubakinskoe.*^
 ||*.ee^
 @@||emias.info^
