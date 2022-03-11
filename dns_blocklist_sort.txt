@@ -1,7 +1,8 @@
-# 06.03.2022
+# 11.03.2022
 ||*.af^
 ||ajgold.*^
 ||*.ao^
+@@||app.4pda.ws^
 ||*.az^
 ||*bank-rsi.*^
 ||*.bg^
@@ -13,11 +14,14 @@
 ||*.bw^
 ||*.cc^
 ||*.cd^
+@@||cdn-tinkoff.ru^
 ||*ceiser.*^
 ||cgforum.*^
 ||*.cm^
 ||*.cn^
 ||*.co^
+@@||dbankcdn.cn^
+@@||dbankcloud.cn^
 ||*dubakinskoe.*^
 ||*.ee^
 @@||emias.info^
@@ -29,6 +33,7 @@
 ||*.gs^
 ||*hachi-kujo*.*^
 ||*harvestgo.*^
+@@||hicloud.com^
 ||*.hk^
 ||hotgayflicks.*^
 @@||huawei.com^
@@ -44,6 +49,7 @@
 ||*.lv^
 ||*.ly^
 ||*.md^
+@@||megafon.ru^
 ||*mezcalito*.*^
 ||*mgs123.*^
 ||mia-mar.*^
@@ -64,6 +70,8 @@
 ||*.qa^
 ||*.ro^
 ||*.sa^
+@@||sberbank.ru^
+@@||sberdevices.ru^
 ||*sendgrid.*^
 ||*.si^
 ||*.st^
@@ -71,6 +79,7 @@
 ||*.tc^
 ||*terresinnovantes.*^
 ||*.th^
+@@||tinkoff.ru^
 ||*tinyurl*.*^
 ||*.tk^
 ||*.tm^
