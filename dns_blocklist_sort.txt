@@ -1,8 +1,12 @@
-# 11.03.2022
+# 13.03.2022
 ||*.af^
 ||ajgold.*^
 ||*.ao^
+||apkfab.*^
+||apkmonk.*^
+||apkpure.*^
 @@||app.4pda.ws^
+||apple.*^
 ||*.az^
 ||*bank-rsi.*^
 ||*.bg^
@@ -30,6 +34,7 @@
 ||*fuqqt*.*^
 ||*.gl^
 ||*.gl^
+||google.*^
 ||*.gs^
 ||*hachi-kujo*.*^
 ||*harvestgo.*^
@@ -37,6 +42,7 @@
 ||*.hk^
 ||hotgayflicks.*^
 @@||huawei.com^
+||icloud.*^
 ||*.in^
 ||*.info^
 ||*.iq^
@@ -68,6 +74,7 @@
 ||*.pk^
 ||*.pl^
 ||*.qa^
+||rapidexpressdeliveryservices.*^
 ||*.ro^
 ||*.sa^
 @@||sberbank.ru^
@@ -77,6 +84,7 @@
 ||*.st^
 ||*.sy^
 ||*.tc^
+||teamviewer.*^
 ||*terresinnovantes.*^
 ||*.th^
 @@||tinkoff.ru^
