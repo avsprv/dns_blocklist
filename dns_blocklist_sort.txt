@@ -1,6 +1,7 @@
-# 13.03.2022
+# 19.03.2022
 ||*.af^
 ||ajgold.*^
+||*amazonaws*.*^
 ||*.ao^
 ||apkfab.*^
 ||apkmonk.*^
@@ -21,6 +22,7 @@
 @@||cdn-tinkoff.ru^
 ||*ceiser.*^
 ||cgforum.*^
+||cloudfront.net^
 ||*.cm^
 ||*.cn^
 ||*.co^
@@ -35,6 +37,8 @@
 ||*.gl^
 ||*.gl^
 ||google.*^
+||googleusercontent.*^
+@@||gorodtroika.ru^
 ||*.gs^
 ||*hachi-kujo*.*^
 ||*harvestgo.*^
@@ -84,7 +88,7 @@
 ||*.st^
 ||*.sy^
 ||*.tc^
-||teamviewer.*^
+!||teamviewer.*^
 ||*terresinnovantes.*^
 ||*.th^
 @@||tinkoff.ru^
