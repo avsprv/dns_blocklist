@@ -1,7 +1,7 @@
 # 19.03.2022
 ||*.af^
 ||ajgold.*^
-||*amazonaws*.*^
+!||*amazonaws.*^
 ||*.ao^
 ||apkfab.*^
 ||apkmonk.*^
@@ -22,7 +22,7 @@
 @@||cdn-tinkoff.ru^
 ||*ceiser.*^
 ||cgforum.*^
-||cloudfront.net^
+!||*cloudfront.*^
 ||*.cm^
 ||*.cn^
 ||*.co^
@@ -37,7 +37,7 @@
 ||*.gl^
 ||*.gl^
 ||google.*^
-||googleusercontent.*^
+!||*googleusercontent.*^
 @@||gorodtroika.ru^
 ||*.gs^
 ||*hachi-kujo*.*^
