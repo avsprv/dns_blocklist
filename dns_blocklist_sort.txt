@@ -1,4 +1,4 @@
-# 19.03.2022
+# 22.03.2022
 ||*.af^
 ||ajgold.*^
 !||*amazonaws.*^
@@ -7,7 +7,7 @@
 ||apkmonk.*^
 ||apkpure.*^
 @@||app.4pda.ws^
-||apple.*^
+!||apple.*^
 ||*.az^
 ||*bank-rsi.*^
 ||*.bg^
@@ -22,6 +22,7 @@
 @@||cdn-tinkoff.ru^
 ||*ceiser.*^
 ||cgforum.*^
+||change.org^
 !||*cloudfront.*^
 ||*.cm^
 ||*.cn^
@@ -32,11 +33,12 @@
 ||*.ee^
 @@||emias.info^
 ||*.fi^
+!||*firefox*.*^
 ||forms.yandex.*^
 ||*fuqqt*.*^
 ||*.gl^
 ||*.gl^
-||google.*^
+!||google.*^
 !||*googleusercontent.*^
 @@||gorodtroika.ru^
 ||*.gs^
@@ -46,7 +48,7 @@
 ||*.hk^
 ||hotgayflicks.*^
 @@||huawei.com^
-||icloud.*^
+!||icloud.*^
 ||*.in^
 ||*.info^
 ||*.iq^
@@ -64,6 +66,7 @@
 ||*mgs123.*^
 ||mia-mar.*^
 ||*.mil^
+!||*mozilla.*^
 ||*.mw^
 ||*.mx^
 ||*.mz^
@@ -73,6 +76,7 @@
 ||*numbersell.*^
 ||*.om^
 ||*omni-all.*^
+||*.one^
 ||peptideshop.*^
 ||*.ph^
 ||*.pk^
@@ -80,6 +84,7 @@
 ||*.qa^
 ||rapidexpressdeliveryservices.*^
 ||*.ro^
+||*.rw^
 ||*.sa^
 @@||sberbank.ru^
 @@||sberdevices.ru^
@@ -90,6 +95,7 @@
 ||*.tc^
 !||teamviewer.*^
 ||*terresinnovantes.*^
+||*test.e-cshk*.*^
 ||*.th^
 @@||tinkoff.ru^
 ||*tinyurl*.*^
