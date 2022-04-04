@@ -1,4 +1,4 @@
-# 26.03.2022
+# 04.04.2022
 ||*.af^
 ||ajgold.*^
 ||*amazonaws.*^
@@ -6,9 +6,12 @@
 ||apkfab.*^
 ||apkmonk.*^
 ||apkpure.*^
+@@||app.4pda.ws^
 ||*apple*.*^
+||aptoide.com^
 ||*.az^
 ||*bank-rsi.*^
+@@||beeline.ru^
 ||*.bg^
 ||*.biz^
 ||*blogger.*^
@@ -28,6 +31,7 @@
 ||*dubakinskoe.*^
 ||*.ee^
 @@||emias.info^
+||*facebook*.*^
 ||*.fi^
 ||*firefox*.*^
 ||forms.yandex.*^
@@ -36,6 +40,7 @@
 ||*.gl^
 ||*google*.*^
 @@||gorodtroika.ru^
+@@||gosuslugi.ru^
 ||*.gs^
 ||*hachi-kujo*.*^
 ||*harvestgo.*^
@@ -44,6 +49,7 @@
 ||icloud.*^
 ||*.in^
 ||*.info^
+||*instagram*.*^
 ||*.iq^
 ||*.ir^
 ||*.jp^
@@ -55,10 +61,13 @@
 ||*.ly^
 ||*.md^
 @@||megafon.ru^
+||meta.com^
 ||*mezcalito*.*^
 ||*mgs123.*^
 ||mia-mar.*^
 ||*.mil^
+@@||mosmetro.ru^
+@@||mos.ru^
 ||*mozilla*.*^
 ||*.mw^
 ||*.mx^
@@ -88,6 +97,7 @@
 ||*.sy^
 ||*.tc^
 ||*teamviewer*.*^
+@@||tele2.ru^
 ||*terresinnovantes.*^
 ||*test.e-cshk*.*^
 ||*.th^
@@ -98,6 +108,7 @@
 ||tomorrowcorporation.*^
 ||*.tr^
 ||*transsion.*^
+||*twitter*.*^
 ||*.tz^
 ||*.ua^
 ||*.uz^
@@ -108,5 +119,6 @@
 ||*.ws^
 ||*.xxx^
 ||*.ye^
+||*youtube*.*^
 ||*.za^
 ||*.zm^
