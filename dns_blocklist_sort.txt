@@ -28,6 +28,7 @@
 ||*.cm^
 ||*.cn^
 ||*.co^
+||*.dev^
 ||*dubakinskoe.*^
 ||*.ee^
 @@||emias.info^
@@ -64,11 +65,13 @@
 ||meta.com^
 ||*mezcalito*.*^
 ||*mgs123.*^
+@@||mgts.ru^
 ||mia-mar.*^
 ||*.mil^
 @@||mosmetro.ru^
 @@||mos.ru^
 ||*mozilla*.*^
+@@||mts.ru^
 ||*.mw^
 ||*.mx^
 ||*.mz^
