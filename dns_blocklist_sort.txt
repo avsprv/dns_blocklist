@@ -1,13 +1,13 @@
-# 04.04.2022
+# 13.04.2022
 ||*.af^
 ||ajgold.*^
-||*amazonaws.*^
+!||*amazonaws.*^
 ||*.ao^
 ||apkfab.*^
 ||apkmonk.*^
-||apkpure.*^
+!||apkpure.*^
 @@||app.4pda.ws^
-||*apple*.*^
+!||*apple*.*^
 ||aptoide.com^
 ||*.az^
 ||*bank-rsi.*^
@@ -24,10 +24,11 @@
 ||*ceiser.*^
 ||cgforum.*^
 ||change.org^
-||*cloudfront.*^
+!||*cloudfront.*^
 ||*.cm^
 ||*.cn^
 ||*.co^
+||*.de^
 ||*.dev^
 ||*dubakinskoe.*^
 ||*.ee^
@@ -39,7 +40,7 @@
 ||*fuqqt*.*^
 ||*.gl^
 ||*.gl^
-||*google*.*^
+!||*google*.*^
 @@||gorodtroika.ru^
 @@||gosuslugi.ru^
 ||*.gs^
@@ -47,16 +48,18 @@
 ||*harvestgo.*^
 ||*.hk^
 ||hotgayflicks.*^
-||icloud.*^
+||*ichgmbh.*^
+!||icloud.*^
 ||*.in^
 ||*.info^
-||*instagram*.*^
+!||*instagram*.*^
 ||*.iq^
 ||*.ir^
 ||*.jp^
 ||*.kz^
 ||*lamalaga.*^
 ||*.le^
+||live.com^
 ||*.lt^
 ||*.lv^
 ||*.ly^
@@ -67,6 +70,7 @@
 ||*mgs123.*^
 @@||mgts.ru^
 ||mia-mar.*^
+||*microsoft*.*^
 ||*.mil^
 @@||mosmetro.ru^
 @@||mos.ru^
@@ -96,6 +100,7 @@
 @@||sberdevices.ru^
 ||*sendgrid.*^
 ||*.si^
+@@||smotrim.ru^
 ||*.st^
 ||*.sy^
 ||*.tc^
@@ -114,6 +119,7 @@
 ||*twitter*.*^
 ||*.tz^
 ||*.ua^
+||*.us^
 ||*.uz^
 ||*.vn^
 @@||web-dre.hispace.dbankcloud.cn^$important
@@ -122,6 +128,6 @@
 ||*.ws^
 ||*.xxx^
 ||*.ye^
-||*youtube*.*^
+!||*youtube*.*^
 ||*.za^
 ||*.zm^
