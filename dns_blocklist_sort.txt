@@ -1,13 +1,13 @@
 # 13.04.2022
 ||*.af^
 ||ajgold.*^
-!||*amazonaws.*^
+||*amazonaws.*^
 ||*.ao^
 ||apkfab.*^
 ||apkmonk.*^
-!||apkpure.*^
+||apkpure.*^
 @@||app.4pda.ws^
-!||*apple*.*^
+||*apple*.*^
 ||aptoide.com^
 ||*.az^
 ||*bank-rsi.*^
@@ -24,7 +24,7 @@
 ||*ceiser.*^
 ||cgforum.*^
 ||change.org^
-!||*cloudfront.*^
+||*cloudfront.*^
 ||*.cm^
 ||*.cn^
 ||*.co^
@@ -40,7 +40,7 @@
 ||*fuqqt*.*^
 ||*.gl^
 ||*.gl^
-!||*google*.*^
+||*google*.*^
 @@||gorodtroika.ru^
 @@||gosuslugi.ru^
 ||*.gs^
@@ -49,10 +49,10 @@
 ||*.hk^
 ||hotgayflicks.*^
 ||*ichgmbh.*^
-!||icloud.*^
+||icloud.*^
 ||*.in^
 ||*.info^
-!||*instagram*.*^
+||*instagram*.*^
 ||*.iq^
 ||*.ir^
 ||*.jp^
@@ -128,6 +128,6 @@
 ||*.ws^
 ||*.xxx^
 ||*.ye^
-!||*youtube*.*^
+||*youtube*.*^
 ||*.za^
 ||*.zm^
