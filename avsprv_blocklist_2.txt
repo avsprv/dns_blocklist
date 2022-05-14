@@ -1,0 +1,16 @@
+||*amazonaws.*^
+||*apple*.*^
+||*cloudfront.*^
+||*facebook*.*^
+||*firefox*.*^
+||forms.yandex.*^
+||*google*.*^
+||icloud.*^
+||*instagram*.*^
+||live.com^
+||meta.com^
+||*microsoft*.*^
+||*mozilla*.*^
+||*teamviewer*.*^
+||*twitter*.*^
+||*youtube*.*^
