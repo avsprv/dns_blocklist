@@ -1,5 +1,6 @@
 # 14.05.2022
 ||02ip.*^
+||2ip.*^
 ||2no.*^
 ||ads-bid.l.doubleclick.net^
 ||*.af^
