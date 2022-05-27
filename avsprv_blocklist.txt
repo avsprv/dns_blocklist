@@ -33,6 +33,7 @@
 ||*.bw^
 ||*.cc^
 ||*.cd^
+@@||cdn-download.drweb.com^
 ||cdn.retailrocket.ru^
 ||cdn.schemaapp.com^
 ||*ceiser.*^
