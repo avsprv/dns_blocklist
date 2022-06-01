@@ -95,6 +95,7 @@
 ||*.ly^
 ||*.md^
 @@||megafon.ru^
+@@||megafon.tv^
 ||*mezcalito*.*^
 ||*mgs123.*^
 @@||mgts.ru^
