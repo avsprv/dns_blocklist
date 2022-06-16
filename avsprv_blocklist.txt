@@ -3,6 +3,7 @@
 ||02ip.*^
 ||2ip.*^
 ||2no.*^
+||*9apps.*^
 ||ads-bid.l.doubleclick.net^
 ||*.af^
 ||ajgold.*^
@@ -14,6 +15,9 @@
 ||*.ao^
 ||api.flocktory.com^
 @@||app.4pda.ws^
+||*apkpure.*^
+||*aptoide.*^
+||*apkmirror.*^
 ||artfut.com^
 ||async-px-eu.dynamicyield.com^
 @@||avito.st^
@@ -23,6 +27,7 @@
 ||b1sync.zemanta.com^
 ||*bank-rsi.*^
 @@||beeline.ru^
+||*bemobi.*^
 ||*.bg^
 ||bidder.am5.vip.prod.criteo.com^
 ||*.biz^
@@ -101,6 +106,8 @@
 @@||mgts.ru^
 ||mia-mar.*^
 ||*.mil^
+||*mobile9.*^
+||*mobogenie.*^
 @@||mosmetro.ru^
 @@||mos.ru^
 @@||mts.ru^
@@ -109,6 +116,7 @@
 ||*.mz^
 ||*.na^
 ||nimbleswan.io^
+||*ninestore.*^
 ||*.ninja^
 ||*.no^
 ||*numbersell.*^
@@ -133,6 +141,8 @@
 @@||sberdevices.ru^
 ||*sendgrid.*^
 ||*.si^
+||*softpedia.*^
+||*slideme.*^
 @@||smotrim.ru^
 ||sr-api.abtasty.com^
 ||ssp.ads.betweendigital.com^
@@ -267,6 +277,7 @@
 ||hk.mibi.xiaomi.com^
 ||hm.xiaomi.com^
 ||huangye.miui.com^
+||*huawei.*^
 ||huodong.xiaomi.com^
 ||huosai.xiaomi.com^
 ||i.xiaomi.com^
