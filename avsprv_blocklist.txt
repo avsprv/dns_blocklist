@@ -1,5 +1,5 @@
 # Compiled based on spam and phishing addresses
-# 22.05.2022
+# 16.06.2022
 ||02ip.*^
 ||2ip.*^
 ||2no.*^
