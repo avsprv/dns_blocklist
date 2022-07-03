@@ -1,5 +1,5 @@
 # Compiled based on spam and phishing addresses
-# 16.06.2022
+# 03.07.2022
 ||02ip.*^
 ||2ip.*^
 ||2no.*^
@@ -96,6 +96,7 @@
 ||*.le^
 ||lga-bh-bgp.contextweb.com^
 ||*.lt^
+||*.lol^
 ||*.lv^
 ||*.ly^
 ||*.md^
