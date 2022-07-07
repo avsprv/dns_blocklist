@@ -1,10 +1,11 @@
 # Compiled based on spam and phishing addresses
-# 03.07.2022
+# 07.07.2022
 ||02ip.*^
 ||2ip.*^
 ||2no.*^
 ||*9apps.*^
 ||ads-bid.l.doubleclick.net^
+@@||attestation.app^
 ||*.af^
 ||ajgold.*^
 @@||alfabank.gcdn.co^
@@ -189,6 +190,7 @@
 ||yip.*^
 ||*.za^
 ||*.zm^
+@@||zoom.us^
 # miui_zero list
 ||a.netcheck.gallery.pandora.xiaomi.com^
 ||a.stat.xiaomi.com^
