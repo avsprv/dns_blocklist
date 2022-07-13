@@ -1,5 +1,8 @@
 # Compiled based on spam and phishing addresses
-# 07.07.2022
+# 13.07.2022
+||eth0.*^
+||ifconfig.*^
+||ipinfo.*^
 ||02ip.*^
 ||2ip.*^
 ||2no.*^
@@ -88,6 +91,10 @@
 ||iplis.*^
 ||*iploger*.*^
 ||*iplogger*.*^
+||ipecho.*^
+||icanhazip.*^
+||ident.*^
+||myip.gelma.*^
 ||*.iq^
 ||*.ir^
 ||*.jp^
@@ -107,6 +114,7 @@
 ||*mgs123.*^
 @@||mgts.ru^
 ||mia-mar.*^
+||*.me^
 ||*.mil^
 ||*mobile9.*^
 ||*mobogenie.*^
