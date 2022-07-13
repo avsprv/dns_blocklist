@@ -114,7 +114,6 @@
 ||*mgs123.*^
 @@||mgts.ru^
 ||mia-mar.*^
-||*.me^
 ||*.mil^
 ||*mobile9.*^
 ||*mobogenie.*^
