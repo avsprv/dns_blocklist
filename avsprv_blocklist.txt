@@ -1,5 +1,6 @@
 # Compiled based on spam and phishing addresses
 # 13.07.2022
+||dyndns.*^
 ||eth0.*^
 ||ifconfig.*^
 ||ipinfo.*^
