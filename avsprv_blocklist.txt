@@ -1,6 +1,9 @@
 # Compiled based on spam and phishing addresses
 # 14.07.2022
 #||checkip.dyndns.*^
+@@||sdpcmts.gcdn.co^
+@@||privetmir.ru^
+@@||ma-prod-cdn.mcdonalds.ru^
 ||eth0.*^
 ||ifconfig.*^
 ||ipinfo.*^
