@@ -293,7 +293,7 @@
 ||hk.mibi.xiaomi.com^
 ||hm.xiaomi.com^
 ||huangye.miui.com^
-||*huawei.*^
+#||*huawei.*^
 ||huodong.xiaomi.com^
 ||huosai.xiaomi.com^
 ||i.xiaomi.com^
