@@ -1,6 +1,7 @@
 # Compiled based on spam and phishing addresses
 # 01.08.2022
 #||checkip.dyndns.*^
+||strm.yandex.*^
 @@||hh.ru^
 @@||kaspersky.com^
 ||cutt.ly^
