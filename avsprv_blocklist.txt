@@ -51,6 +51,7 @@
 ||*.cc^
 ||*.cd^
 @@||cdn-download.drweb.com^
+@@||drweb.ru^
 ||cdn.retailrocket.ru^
 ||cdn.schemaapp.com^
 ||*ceiser.*^
