@@ -40,7 +40,10 @@ stat.online.sberbank.ru
 firebaseremoteconfig.googleapis.com
 report.appmetrica.yandex.net
 top-fwz1.mail.ru
+push.yandex.ru
 push.yandex.com
+avatars.mds.yandex.net
+sso.passport.yandex.ru
 startup.mobile.yandex.net
 rose.ixbt.com
 pagead.l.doubleclick.net
