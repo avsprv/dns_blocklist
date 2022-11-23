@@ -3,6 +3,7 @@
 #||checkip.dyndns.*^
 #||strm.yandex.*^
 @@||hh.ru^
+@@||vtb.ru^
 @@||kaspersky.com^
 ||cutt.ly^
 @@||sdpcmts.gcdn.co^
