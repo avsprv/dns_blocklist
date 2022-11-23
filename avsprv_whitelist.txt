@@ -1,4 +1,4 @@
-#hh.ru
+hh.ru
 #kaspersky.com
 #sdpcmts.gcdn.co
 privetmir.ru
@@ -59,3 +59,4 @@ googleadapis.l.google.com
 #*.supersonicads.com
 #*.tapjoy.com
 #cdn.liftoff.io
+vtb.ru
