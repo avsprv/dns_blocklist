@@ -37,6 +37,7 @@ s.click.aliexpress.com
 r.mradx.net
 firebaseinstallations.googleapis.com
 www.youtube-nocookie.com
+suggestions.dadata.ru
 mc.yandex.ru
 stat.online.sberbank.ru
 firebaseremoteconfig.googleapis.com
