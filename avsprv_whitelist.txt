@@ -1,4 +1,3 @@
-*.cutt.ly
 *.hh.ru
 *.rt.ru
 *.kaspersky.com
