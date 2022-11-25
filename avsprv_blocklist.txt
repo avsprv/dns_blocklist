@@ -2,6 +2,7 @@
 # 01.08.2022
 #||checkip.dyndns.*^
 #||strm.yandex.*^
+@@||rt.ru^
 @@||hh.ru^
 @@||vtb.ru^
 @@||kaspersky.com^
