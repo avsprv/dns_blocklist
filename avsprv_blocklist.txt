@@ -2,6 +2,8 @@
 # 01.08.2022
 #||checkip.dyndns.*^
 #||strm.yandex.*^
+@@||developer.android.com^
+@@||developers.google.com^
 @@||rt.ru^
 @@||hh.ru^
 @@||vtb.ru^
