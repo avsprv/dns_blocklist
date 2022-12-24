@@ -1,7 +1,7 @@
-# Compiled based on spam and phishing addresses
-# 01.08.2022
+# 24.12.2022
 #||checkip.dyndns.*^
 #||strm.yandex.*^
+@@||telegra.ph^
 @@||developer.android.com^
 @@||developers.google.com^
 @@||rt.ru^
@@ -211,7 +211,6 @@
 ||*.za^
 ||*.zm^
 @@||zoom.us^
-# miui_zero list
 ||a.netcheck.gallery.pandora.xiaomi.com^
 ||a.stat.xiaomi.com^
 ||abtest.mistat.intl.xiaomi.com^
@@ -300,7 +299,6 @@
 ||hk.mibi.xiaomi.com^
 ||hm.xiaomi.com^
 ||huangye.miui.com^
-#||*huawei.*^
 ||huodong.xiaomi.com^
 ||huosai.xiaomi.com^
 ||i.xiaomi.com^
@@ -573,7 +571,6 @@
 ||xshare.api.xiaomi.com^
 ||zeus.ad.intl.xiaomi.com^
 ||zx.game.xiaomi.com^
-##
 @@||ad.admitad.com^
 @@||s.click.aliexpress.com^
 @@||r.mradx.net^
@@ -593,3 +590,9 @@
 @@||pagead.l.doubleclick.net^
 @@||www.googleadservices.com^
 @@||googleadapis.l.google.com^
+||aomosavto.*^
+||sekiryuu.*^
+||tinyurl.*^
+||we-ridewell.*^
+||nethouse.id^
+||tn-heg.mckw.*^
