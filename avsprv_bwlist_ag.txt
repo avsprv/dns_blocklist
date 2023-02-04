@@ -564,6 +564,7 @@
 @@||googleadapis.l.google.com^
 @@||gorodtroika.ru^
 @@||gosuslugi.ru^
+@@||gov.ru^
 @@||helpshift.com^
 @@||hh.ru^
 @@||kaspersky.com^
