@@ -543,11 +543,13 @@
 ||zeus.ad.intl.xiaomi.com^
 ||*.zm^
 ||zx.game.xiaomi.com^
+@@||account.adguard.info^$important
 #@@||ad.admitad.com^
 @@||alfabank.gcdn.co^
 @@||alfabank.ru^
 @@||alfabank.st^
 @@||app.4pda.ws^
+@@||auth.adguard.info^$important
 @@||*.applovin.com^
 @@||*.applvn.com^
 @@||*.appsflyer.com^
@@ -580,6 +582,7 @@
 @@||mosmetro.ru^
 @@||mos.ru^
 @@||mts.ru^
+@@||my.adguard.info^$important
 @@||*.nextgamesservices.com^
 @@||pagead.l.doubleclick.net^
 @@||preset.myoffice-app.ru^
