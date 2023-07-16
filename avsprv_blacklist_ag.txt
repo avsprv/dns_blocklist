@@ -203,6 +203,7 @@
 ||*.lt^
 ||*.lv^
 ||*.ly^
+||maps.google.*^
 ||mazu.sec.miui.com^
 ||m.bss.pandora.xiaomi.com^
 ||mcc.intl.inf.miui.com^
@@ -322,6 +323,7 @@
 ||*.tk^
 ||tls13.taboola.map.fastly.net^
 ||*.tm^
+||*.top^
 ||tn-heg.mckw.*^
 ||tomorrowcorporation.*^
 ||*.tr^
