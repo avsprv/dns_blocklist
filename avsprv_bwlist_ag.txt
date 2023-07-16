@@ -134,6 +134,7 @@
 ||flocktory.com^
 ||fr.app.chat.global.xiaomi.net^
 ||*fuqqt*.*^
+||fujibikes.*^
 ||gallery.cdn.pandora.xiaomi.com^
 ||gallery.p2p.pandora.xiaomi.com^
 ||gallery.pandora.xiaomi.com^
@@ -602,12 +603,14 @@
 @@||*.supersonicads.com^
 @@||*.tapjoy.com^
 @@||tele2.ru^
+@@||t.me^$important
 @@||telegra.ph^
 @@||termux.dev^
 @@||tinkoff.ru^
 #@@||top-fwz1.mail.ru^
 @@||troikamos.ru^
 @@||*.unity3d.com^
+@@||vk.cc^$important
 @@||vtb.ru^
 @@||www.googleadservices.com^
 @@||www.youtube-nocookie.com^
