@@ -134,6 +134,7 @@
 ||flocktory.com^
 ||fr.app.chat.global.xiaomi.net^
 ||*fuqqt*.*^
+||fujibikes.*^
 ||gallery.cdn.pandora.xiaomi.com^
 ||gallery.p2p.pandora.xiaomi.com^
 ||gallery.pandora.xiaomi.com^
