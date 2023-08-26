@@ -1,3 +1,7 @@
+0.0.0.0 0.0.0.0
+:: ::
+0.0.0.0 127.0.0.1
+:: ::1
 ||02ip.*^
 ||2ip.*^
 ||2no.*^
@@ -543,19 +547,17 @@
 ||zeus.ad.intl.xiaomi.com^
 ||*.zm^
 ||zx.game.xiaomi.com^
-@@||account.adguard.info^$important
 #@@||ad.admitad.com^
+@@||adguard.info^
 @@||alfabank.gcdn.co^
 @@||alfabank.ru^
 @@||alfabank.st^
 @@||app.4pda.ws^
-@@||auth.adguard.info^$important
 @@||*.applovin.com^
 @@||*.applvn.com^
 @@||*.appsflyer.com^
 @@||attestation.app^
 @@||avatars.mds.yandex.net^
-#@@||avito.st^
 @@||beeline.ru^
 @@||cdn-download.drweb.com^
 @@||cdn.liftoff.io^
@@ -572,10 +574,11 @@
 @@||gov.ru^
 @@||*.helpshift.com^
 @@||hh.ru^
+@@||img.avito.st^
 @@||kaspersky.com^
 @@||kaspersky.ru^
 @@||ma-prod-cdn.mcdonalds.ru^
-@@||mc.yandex.ru^
+#@@||mc.yandex.ru^
 @@||megafon.ru^
 @@||megafon.tv^
 @@||mgts.ru^
@@ -618,3 +621,34 @@
 @@||www.googleadservices.com^
 @@||www.youtube-nocookie.com^
 @@||zoom.us^
+@@||ftp-stud.hs-esslingen.de^
+@@||overpass-api.de^
+@@||guardianproject.info^
+@@||rzd.ru^
+@@||drweb.com^
+@@||drweb.ru^
+@@||grapheneos.org^
+@@||gu-st.ru^
+@@||gpb.ru^
+@@||rencredit.ru^
+@@||nspk.ru^
+@@||otpbank.ru^
+@@||cbrpay.ru^
+@@||mironline.ru^
+@@||mirconnect.ru^
+@@||iitrust.ru^
+@@||russianpost.ru^
+@@||pochta.ru^
+@@||nalog.ru^
+@@||cbr.ru^
+@@||troika-gorod.ru^
+@@||sbrf.ru^
+@@||мойассистент.рф^
+@@||consultant.ru^
+@@||velobike.ru^
+@@||avito.st^
+@@||adguard-vpn.info^
+@@||adguard-dns.io^
+@@||adguard-dns.com^
+@@||adguard.org^
+@@||adguard-vpn.online^
