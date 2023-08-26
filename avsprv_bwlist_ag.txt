@@ -652,3 +652,4 @@
 @@||adguard-dns.com^
 @@||adguard.org^
 @@||adguard-vpn.online^
+@@||adguardteam.github.io^
