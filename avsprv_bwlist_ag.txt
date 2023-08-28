@@ -96,7 +96,7 @@
 ||cgforum.*^
 ||change.org^
 #||checkip.dyndns.*^
-||clck.yandex.*^
+#||clck.yandex.*^
 ||clock.ad.xiaomi.com^
 ||*.cm^
 ||*.cn^
@@ -653,3 +653,4 @@
 @@||adguard.org^
 @@||adguard-vpn.online^
 @@||adguardteam.github.io^
+@@||ya.cc^
