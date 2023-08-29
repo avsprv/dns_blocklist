@@ -21,6 +21,7 @@
 ||ajgold.*^
 ||am-sync.taboola.com^
 ||andylongshot.*^
+||anydesk.*^
 ||a.netcheck.gallery.pandora.xiaomi.com^
 ||*.ao^
 ||aomosavto.*^
@@ -654,3 +655,4 @@
 @@||adguard-vpn.online^
 @@||adguardteam.github.io^
 @@||ya.cc^
+@@||ag-vmeste.ru^
