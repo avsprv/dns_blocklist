@@ -1,4 +1,3 @@
-#@@||ad.admitad.com^
 @@||adguard.info^
 @@||alfabank.gcdn.co^
 @@||alfabank.ru^
@@ -105,3 +104,4 @@
 @@||adguard-vpn.online^
 @@||adguardteam.github.io^
 @@||ya.cc^
+@@||ag-vmeste.ru^
