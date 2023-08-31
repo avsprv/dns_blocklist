@@ -21,6 +21,7 @@
 ||ajgold.*^
 ||am-sync.taboola.com^
 ||andylongshot.*^
+||anydesk.*^
 ||a.netcheck.gallery.pandora.xiaomi.com^
 ||*.ao^
 ||aomosavto.*^
@@ -96,7 +97,6 @@
 ||cgforum.*^
 ||change.org^
 #||checkip.dyndns.*^
-||clck.yandex.*^
 ||clock.ad.xiaomi.com^
 ||*.cm^
 ||*.cn^
@@ -308,7 +308,6 @@
 ||stat.pandora.xiaomi.com^
 ||stat.xiaomi.com^
 ||storeconfig.mistat.intl.xiaomi.com^
-#||strm.yandex.*^
 ||*.sy^
 ||sync.taboola.com^
 ||t1.g.mi.com^
@@ -324,7 +323,6 @@
 ||test.new.api.ad.xiaomi.com^
 ||*.th^
 ||*tinyurl*.*^
-||tinyurl.*^
 ||*.tk^
 ||tls13.taboola.map.fastly.net^
 ||*.tm^
