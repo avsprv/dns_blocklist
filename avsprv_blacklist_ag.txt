@@ -1,6 +1,6 @@
 0.0.0.0 0.0.0.0
-:: ::
 0.0.0.0 127.0.0.1
+:: ::
 :: ::1
 ||02ip.*^
 ||2ip.*^
@@ -21,8 +21,8 @@
 ||ajgold.*^
 ||am-sync.taboola.com^
 ||andylongshot.*^
-||anydesk.*^
 ||a.netcheck.gallery.pandora.xiaomi.com^
+||anydesk.*^
 ||*.ao^
 ||aomosavto.*^
 ||api.ad.intl.xiaomi.com^
@@ -137,8 +137,8 @@
 ||file.xmpush.xiaomi.com^
 ||flocktory.com^
 ||fr.app.chat.global.xiaomi.net^
-||*fuqqt*.*^
 ||fujibikes.*^
+||*fuqqt*.*^
 ||gallery.cdn.pandora.xiaomi.com^
 ||gallery.p2p.pandora.xiaomi.com^
 ||gallery.pandora.xiaomi.com^
@@ -326,9 +326,9 @@
 ||*.tk^
 ||tls13.taboola.map.fastly.net^
 ||*.tm^
-||*.top^
 ||tn-heg.mckw.*^
 ||tomorrowcorporation.*^
+||*.top^
 ||*.tr^
 ||tracking.intl.miui.com^
 ||tracking.miui.com^
