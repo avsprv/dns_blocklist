@@ -97,7 +97,6 @@
 ||cgforum.*^
 ||change.org^
 #||checkip.dyndns.*^
-#||clck.yandex.*^
 ||clock.ad.xiaomi.com^
 ||*.cm^
 ||*.cn^
@@ -309,7 +308,6 @@
 ||stat.pandora.xiaomi.com^
 ||stat.xiaomi.com^
 ||storeconfig.mistat.intl.xiaomi.com^
-#||strm.yandex.*^
 ||*.sy^
 ||sync.taboola.com^
 ||t1.g.mi.com^
@@ -325,7 +323,6 @@
 ||test.new.api.ad.xiaomi.com^
 ||*.th^
 ||*tinyurl*.*^
-||tinyurl.*^
 ||*.tk^
 ||tls13.taboola.map.fastly.net^
 ||*.tm^
@@ -548,7 +545,6 @@
 ||zeus.ad.intl.xiaomi.com^
 ||*.zm^
 ||zx.game.xiaomi.com^
-#@@||ad.admitad.com^
 @@||adguard.info^
 @@||alfabank.gcdn.co^
 @@||alfabank.ru^
