@@ -19,13 +19,13 @@
 @@||beeline.ru^
 @@||cbrpay.ru^
 @@||cbr.ru^
-@@||cdn-download.drweb.com^
 @@||cdn.liftoff.io^
 @@||consultant.ru^
 @@||developer.android.com^
 @@||developers.google.com^
 @@||drweb.com^
 @@||drweb.ru^
+@@||elec.moscow^
 @@||emias.info^
 @@||firebaseinstallations.googleapis.com^
 @@||firebaseremoteconfig.googleapis.com^
@@ -75,8 +75,10 @@
 @@||russianpost.ru^
 @@||rzd.ru^
 #@@||sba.yandex.net^
+@@||sberbank.com^
 @@||sberbank.ru^
 @@||sberdevices.ru^
+@@||sber.ru^
 @@||sbrf.ru^
 #@@||s.click.aliexpress.com^
 @@||sdpcmts.gcdn.co^
@@ -87,6 +89,7 @@
 @@||suggestions.dadata.ru^
 @@||*.supersonicads.com^
 @@||*.tapjoy.com^
+@@||tdesktop.telega.one^
 @@||tele2.ru^
 @@||telegra.ph^
 @@||termux.dev^
