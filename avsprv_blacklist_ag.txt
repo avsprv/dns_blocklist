@@ -102,6 +102,7 @@
 ||*.cn^
 ||cnc.fe01.lg.xiaomi.com^
 ||*.co^
+||cofe.ru^
 ||config.kuyun.com^
 ||csm.fr.eu.criteo.net^
 ||csm.par.vip.prod.criteo.net^
