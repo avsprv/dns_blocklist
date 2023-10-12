@@ -235,8 +235,9 @@
 @@||startup.mobile.yandex.net^
 @@||suggestions.dadata.ru^
 @@||t.me^
-@@||tdesktop.telega.one^
 @@||tele2.ru^
+@@||teleg.one^
+@@||telega.one^
 @@||telegra.ph^
 @@||termux.dev^
 @@||tinkoff.ru^
