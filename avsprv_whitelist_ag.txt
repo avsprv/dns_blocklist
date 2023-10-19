@@ -25,6 +25,7 @@
 @@||beeline.ru^
 @@||cbr.ru^
 @@||cbrpay.ru^
+@@||church.ua^$important
 @@||consultant.ru^
 @@||developer.android.com^
 @@||developers.google.com^
@@ -59,6 +60,7 @@
 @@||mts.ru^
 @@||nalog.ru^
 @@||nspk.ru^
+@@||orthodox.org.ua^$important
 @@||otpbank.ru^
 @@||overpass-api.de^
 @@||pochta.ru^
