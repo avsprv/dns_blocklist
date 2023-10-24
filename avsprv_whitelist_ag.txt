@@ -1,9 +1,3 @@
-#@@||firebaseinstallations.googleapis.com^
-#@@||firebaseremoteconfig.googleapis.com^
-#@@||googleadapis.l.google.com^
-#@@||pagead.l.doubleclick.net^
-#@@||www.googleadservices.com^
-#@@||www.youtube-nocookie.com^
 @@||adguard-dns.com^
 @@||adguard-dns.io^
 @@||adguard-vpn.info^
@@ -31,6 +25,7 @@
 @@||developers.google.com^
 @@||drweb.com^
 @@||drweb.ru^
+@@||ebs.ru^
 @@||elec.moscow^
 @@||emias.info^
 @@||ftp-stud.hs-esslingen.de^
