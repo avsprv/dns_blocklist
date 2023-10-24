@@ -1,4 +1,3 @@
-#||checkip.dyndns.*^
 ||*.af^
 ||*.al^
 ||*.am^
