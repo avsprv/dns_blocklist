@@ -120,7 +120,6 @@
 ||iplogger*.*^
 ||kraken.rambler.*^
 ||lamalaga.*^
-||maps.google.*^
 ||mezcalito*.*^
 ||mgs123.*^
 ||mia-mar.*^
