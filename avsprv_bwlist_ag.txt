@@ -13,8 +13,6 @@
 ||*.cn^
 ||*.co^
 ||*.cz^
-||*.de^
-||*.dev^
 ||*.dz^
 ||*.ee^
 ||*.es^
@@ -167,7 +165,7 @@
 @@||beeline.ru^
 @@||cbr.ru^
 @@||cbrpay.ru^
-@@||church.ua^$important
+@@||church.ua^
 @@||consultant.ru^
 @@||developer.android.com^
 @@||developers.google.com^
@@ -203,7 +201,7 @@
 @@||mts.ru^
 @@||nalog.ru^
 @@||nspk.ru^
-@@||orthodox.org.ua^$important
+@@||orthodox.org.ua^
 @@||otpbank.ru^
 @@||overpass-api.de^
 @@||pochta.ru^
@@ -225,7 +223,9 @@
 @@||skillsnet.ru^
 @@||sso.passport.yandex.ru^
 @@||startup.mobile.yandex.net^
+@@||stoloto.ru^
 @@||suggestions.dadata.ru^
+@@||synergy.ru^
 @@||t.me^
 @@||tele2.ru^
 @@||teleg.one^
@@ -233,11 +233,12 @@
 @@||telegra.ph^
 @@||termux.dev^
 @@||tinkoff.ru^
+@@||trk.mail.ru^
 @@||troika-gorod.ru^
 @@||troikamos.ru^
 @@||trudvsem.ru^
 @@||velobike.ru^
-@@||vk.cc^$important
+@@||vk.cc^
 @@||vtb.ru^
 @@||xn--80akicokc0aablc.xn--p1ai^
 @@||ya.cc^
