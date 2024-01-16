@@ -116,6 +116,7 @@
 @@||nspk.ru^
 @@||otpbank.ru^
 @@||platimultiqr.ru^
+@@||platiqr.ru^
 @@||pochta.ru^
 @@||pochtabank.ru^
 @@||preset.myoffice-app.ru^
