@@ -76,6 +76,7 @@
 ||*.za^
 ||*.zm^
 ||*2ip.*^
+||*goatse*.*^
 ||netgm.*^
 ||ntgaming.*^
 @@||ag-vmeste.ru^
