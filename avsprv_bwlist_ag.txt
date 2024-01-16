@@ -76,6 +76,8 @@
 ||*.za^
 ||*.zm^
 ||*2ip.*^
+||netgm.*^
+||ntgaming.*^
 @@||ag-vmeste.ru^
 @@||alfabank.ru^
 @@||avatars.mds.yandex.net^
