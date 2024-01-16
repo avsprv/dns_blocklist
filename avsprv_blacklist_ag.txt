@@ -76,3 +76,5 @@
 ||*.za^
 ||*.zm^
 ||*2ip.*^
+||netgm.*^
+||ntgaming.*^
