@@ -77,5 +77,6 @@
 ||*.zm^
 ||*2ip.*^
 ||*goatse*.*^
+||dosviduli.*^
 ||netgm.*^
 ||ntgaming.*^
