@@ -76,8 +76,8 @@
 ||*.za^
 ||*.zm^
 ||*2ip.*^
-||dosviduli.*^
 ||*goatse*.*^
+||dosviduli.*^
 ||netgm.*^
 ||ntgaming.*^
 @@||ag-vmeste.ru^
