@@ -4,7 +4,6 @@
 ||*.ao^
 ||*.az^
 ||*.bg^
-||*.biz^
 ||*.br^
 ||*.bw^
 ||*.cc^
@@ -16,7 +15,6 @@
 ||*.dz^
 ||*.ee^
 ||*.ge^
-||*.gl^
 ||*.gr^
 ||*.gs^
 ||*.hk^
@@ -37,10 +35,8 @@
 ||*.na^
 ||*.ng^
 ||*.ni^
-||*.ninja^
 ||*.no^
 ||*.om^
-||*.one^
 ||*.ph^
 ||*.pk^
 ||*.pl^
@@ -56,7 +52,6 @@
 ||*.th^
 ||*.tk^
 ||*.tm^
-||*.top^
 ||*.tr^
 ||*.tz^
 ||*.ua^
@@ -72,6 +67,7 @@
 ||*2ip.*^
 ||*goatse*.*^
 ||dosviduli.*^
+||mradx.*^
 ||netgm.*^
 ||ntgaming.*^
 @@||ag-vmeste.ru^
@@ -86,6 +82,7 @@
 @@||ebs.ru^
 @@||elec.moscow^
 @@||emias.info^
+@@||flash.android.com^
 @@||gorod.pw^
 @@||gorodtroika.ru^
 @@||gosuslugi.ru^
@@ -94,6 +91,7 @@
 @@||gu-st.ru^
 @@||halvacard.ru^
 @@||hh.ru^
+@@||hhcdn.ru^
 @@||iitrust.ru^
 @@||kaspersky-labs.com^
 @@||kaspersky.com^
