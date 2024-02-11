@@ -66,10 +66,17 @@
 ||*.zm^
 ||*2ip.*^
 ||*goatse*.*^
+||2no.*^
 ||dosviduli.*^
+||ezstat.*^
+||ipgrabber.*^
+||ipgraber.*^
+||iplis.*^
+||iplogger.*^
 ||mradx.*^
 ||netgm.*^
 ||ntgaming.*^
+||yip.*^
 @@||ag-vmeste.ru^
 @@||alfabank.ru^
 @@||avatars.mds.yandex.net^
