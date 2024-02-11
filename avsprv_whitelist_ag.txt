@@ -10,6 +10,7 @@
 @@||ebs.ru^
 @@||elec.moscow^
 @@||emias.info^
+@@||flash.android.com^
 @@||gorod.pw^
 @@||gorodtroika.ru^
 @@||gosuslugi.ru^
@@ -18,6 +19,7 @@
 @@||gu-st.ru^
 @@||halvacard.ru^
 @@||hh.ru^
+@@||hhcdn.ru^
 @@||iitrust.ru^
 @@||kaspersky-labs.com^
 @@||kaspersky.com^
