@@ -48,7 +48,6 @@
 @@||push.yandex.com^
 @@||push.yandex.ru^
 @@||rencredit.ru^
-@@||rose.ixbt.com^
 @@||rsb.ru^
 @@||rshb.ru^
 @@||rt.ru^
@@ -69,14 +68,12 @@
 @@||stoloto.ru^
 @@||suggestions.dadata.ru^
 @@||synergy.ru^
-@@||t.me^
 @@||tele2.ru^
 @@||tinkoff.ru^
-@@||trk.mail.ru^
+#@@||trk.mail.ru^
 @@||troika-gorod.ru^
 @@||troikamos.ru^
 @@||trudvsem.ru^
-@@||velobike.ru^
 @@||vtb.ru^
 @@||xn--80akicokc0aablc.xn--p1ai^
 @@||yoomoney.ru^
