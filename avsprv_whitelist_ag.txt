@@ -38,6 +38,7 @@
 @@||multiqrpay.ru^
 @@||multiqr.ru^
 @@||nalog.ru^
+@@||notariat.ru^
 @@||nspk.ru^
 @@||otpbank.ru^
 @@||platimultiqr.ru^
@@ -69,6 +70,7 @@
 @@||stoloto.ru^
 @@||suggestions.dadata.ru^
 @@||synergy.ru^
+@@||tdesktop.telega.one^
 @@||tele2.ru^
 @@||tinkoff.ru^
 #@@||trk.mail.ru^
