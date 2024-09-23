@@ -12,3 +12,4 @@
 ||netgm.*^
 ||ntgaming.*^
 ||yip.*^
+||*.ua^
