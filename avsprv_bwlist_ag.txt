@@ -97,3 +97,4 @@
 @@||yoomoney.ru^$important
 @@||comss.ru^$important
 @@||ivpn.net^$important
+@@||mtsbank.ru^$important
