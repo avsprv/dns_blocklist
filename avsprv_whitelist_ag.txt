@@ -35,6 +35,7 @@
 @@||mosmetro.ru^$important
 @@||mos.ru^$important
 @@||mts.ru^$important
+@@||mtsbank.ru^$important
 @@||multiqrpay.ru^$important
 @@||multiqr.ru^$important
 @@||nalog.ru^$important
@@ -80,5 +81,3 @@
 @@||vtb.ru^$important
 @@||xn--80akicokc0aablc.xn--p1ai^$important
 @@||yoomoney.ru^$important
-@@||comss.ru^$important
-@@||ivpn.net^$important
