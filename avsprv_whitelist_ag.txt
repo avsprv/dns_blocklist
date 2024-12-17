@@ -4,6 +4,7 @@
 @@||beeline.ru^$important
 @@||cbrpay.ru^$important
 @@||cbr.ru^$important
+@@||dns.comss.one^$important
 @@||connect.ok.ru^$important
 @@||consultant.ru^$important
 @@||drweb.com^$important
