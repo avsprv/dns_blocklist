@@ -5,8 +5,10 @@
 @@||cbrpay.ru^$important
 @@||cbr.ru^$important
 @@||dns.comss.one^$important
+@@||chatgpt.com^$important
 @@||connect.ok.ru^$important
 @@||consultant.ru^$important
+@@||copilot.microsoft.com^$important
 @@||drweb.com^$important
 @@||drweb.ru^$important
 @@||ebs.ru^$important
@@ -18,6 +20,7 @@
 @@||gosuslugi.ru^$important
 @@||gov.ru^$important
 @@||gpb.ru^$important
+@@||grok.com^$important
 @@||gu-st.ru^$important
 @@||halvacard.ru^$important
 @@||hhcdn.ru^$important
@@ -42,6 +45,9 @@
 @@||nalog.ru^$important
 @@||notariat.ru^$important
 @@||nspk.ru^$important
+@@||oaistatic.com^$important
+@@||oaiusercontent.com^$important
+@@||openai.com^$important
 @@||otpbank.ru^$important
 @@||platimultiqr.ru^$important
 @@||platiqr.ru^$important
@@ -80,5 +86,6 @@
 @@||troikamos.ru^$important
 @@||trudvsem.ru^$important
 @@||vtb.ru^$important
+@@||x.ai^$important
 @@||xn--80akicokc0aablc.xn--p1ai^$important
 @@||yoomoney.ru^$important
