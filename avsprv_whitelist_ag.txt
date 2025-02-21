@@ -15,6 +15,7 @@
 @@||elec.moscow^$important
 @@||emias.info^$important
 @@||flash.android.com^$important
+@@||gemini.google.com^$important
 @@||gorod.pw^$important
 @@||gorodtroika.ru^$important
 @@||gosuslugi.ru^$important
@@ -81,7 +82,7 @@
 @@||tdesktop.telega.one^$important
 @@||tele2.ru^$important
 @@||tinkoff.ru^$important
-#@@||trk.mail.ru^$important
+@@||trk.mail.ru^$important
 @@||troika-gorod.ru^$important
 @@||troikamos.ru^$important
 @@||trudvsem.ru^$important
