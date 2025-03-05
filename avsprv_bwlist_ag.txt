@@ -90,5 +90,6 @@
 @@||trudvsem.ru^$important
 @@||vtb.ru^$important
 @@||x.ai^$important
+@@||xbox-dns.ru^$important
 @@||xn--80akicokc0aablc.xn--p1ai^$important
 @@||yoomoney.ru^$important
