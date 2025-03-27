@@ -43,6 +43,8 @@
 @@||mtsbank.ru^$important
 @@||multiqrpay.ru^$important
 @@||multiqr.ru^$important
+@@||naimix.ru
+@@||naimix.info
 @@||nalog.ru^$important
 @@||notariat.ru^$important
 @@||nspk.ru^$important
