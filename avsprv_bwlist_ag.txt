@@ -20,7 +20,9 @@
 @@||elec.moscow^$important
 @@||emias.info^$important
 @@||flash.android.com^$important
+@@||fragment.com^$important
 @@||gemini.google.com^$important
+@@||getgems.io^$important
 @@||gorod.pw^$important
 @@||gorodtroika.ru^$important
 @@||gosuslugi.ru^$important
@@ -42,6 +44,7 @@
 @@||mgts.ru^$important
 @@||mirconnect.ru^$important
 @@||mironline.ru^$important
+@@||mobile.tg^$important
 @@||mosmetro.ru^$important
 @@||mos.ru^$important
 @@||mts.ru^$important
@@ -89,10 +92,13 @@
 @@||tdesktop.telega.one^$important
 @@||tele2.ru^$important
 @@||tinkoff.ru^$important
+@@||ton.org^$important
+@@||ton.dating^$important
 @@||trk.mail.ru^$important
 @@||troika-gorod.ru^$important
 @@||troikamos.ru^$important
 @@||trudvsem.ru^$important
+@@||tribute.top^$important
 @@||vtb.ru^$important
 @@||x.ai^$important
 @@||xbox-dns.ru^$important
