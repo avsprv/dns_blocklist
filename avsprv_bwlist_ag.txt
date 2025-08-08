@@ -100,6 +100,7 @@
 @@||trudvsem.ru^$important
 @@||tribute.top^$important
 @@||vtb.ru^$important
+@@||wallet.tg^$important
 @@||x.ai^$important
 @@||xbox-dns.ru^$important
 @@||xn--80akicokc0aablc.xn--p1ai^$important
