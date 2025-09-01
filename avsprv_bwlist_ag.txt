@@ -37,6 +37,9 @@
 @@||kaspersky.com^$important
 @@||kaspersky-labs.com^$important
 @@||kaspersky.ru^$important
+@@||max.ru^$important
+@@||max-admin.ru^$important
+@@||max-chatbot.ru^$important
 @@||ma-prod-cdn.mcdonalds.ru^$important
 @@||mc.yandex.ru^$important
 @@||megafon.ru^$important
@@ -78,6 +81,7 @@
 @@||rzd.ru^$important
 @@||sberbank.com^$important
 @@||sberbank.ru^$important
+@@||sbercloud.ru^$important
 @@||sberdevices.ru^$important
 @@||sber.ru^$important
 @@||sbpgpb.ru^$important
