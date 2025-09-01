@@ -15,7 +15,9 @@
 @@||elec.moscow^$important
 @@||emias.info^$important
 @@||flash.android.com^$important
+@@||fragment.com^$important
 @@||gemini.google.com^$important
+@@||getgems.io^$important
 @@||gorod.pw^$important
 @@||gorodtroika.ru^$important
 @@||gosuslugi.ru^$important
@@ -30,6 +32,9 @@
 @@||kaspersky.com^$important
 @@||kaspersky-labs.com^$important
 @@||kaspersky.ru^$important
+@@||max.ru^$important
+@@||max-admin.ru^$important
+@@||max-chatbot.ru^$important
 @@||ma-prod-cdn.mcdonalds.ru^$important
 @@||mc.yandex.ru^$important
 @@||megafon.ru^$important
@@ -37,6 +42,7 @@
 @@||mgts.ru^$important
 @@||mirconnect.ru^$important
 @@||mironline.ru^$important
+@@||mobile.tg^$important
 @@||mosmetro.ru^$important
 @@||mos.ru^$important
 @@||mts.ru^$important
@@ -70,6 +76,7 @@
 @@||rzd.ru^$important
 @@||sberbank.com^$important
 @@||sberbank.ru^$important
+@@||sbercloud.ru^$important
 @@||sberdevices.ru^$important
 @@||sber.ru^$important
 @@||sbpgpb.ru^$important
@@ -84,11 +91,15 @@
 @@||tdesktop.telega.one^$important
 @@||tele2.ru^$important
 @@||tinkoff.ru^$important
+@@||ton.org^$important
+@@||ton.dating^$important
 @@||trk.mail.ru^$important
 @@||troika-gorod.ru^$important
 @@||troikamos.ru^$important
 @@||trudvsem.ru^$important
+@@||tribute.top^$important
 @@||vtb.ru^$important
+@@||wallet.tg^$important
 @@||x.ai^$important
 @@||xbox-dns.ru^$important
 @@||xn--80akicokc0aablc.xn--p1ai^$important
