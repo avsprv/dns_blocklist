@@ -1,5 +1,4 @@
-! Title: avsprv_bwlist_ag
-! Expires: 8 hours (update frequency)
+! Title: avsprv_bwlist_ag^
 @@||4pda.to^
 @@||adguard-dns.com^
 @@||adguard-dns.io^
@@ -17,16 +16,15 @@
 @@||connect.ok.ru^
 @@||consultant.ru^
 @@||dbo-dengi.online^
-@@||dns.comss.one^
 @@||dom.ru^
 @@||drweb.com^
 @@||drweb.ru^
 @@||ebs.ru^
 @@||elec.moscow^
 @@||emias.info^
+@@||esia-st.ru^
 @@||flash.android.com^
 @@||gazfond-pn.ru^
-@@||geohide.ru^
 @@||gorod.pw^
 @@||gorodpay.ru^
 @@||gorodtroika.ru^
@@ -37,10 +35,10 @@
 @@||gu-st.ru^
 @@||halvacard.ru^
 @@||iitrust.ru^
+@@||investmoscow.ru^
 @@||kaspersky-labs.com^
 @@||kaspersky.com^
 @@||kaspersky.ru^
-@@||malw.link^
 @@||max-admin.ru^
 @@||max-chatbot.ru^
 @@||max.ru^
@@ -56,6 +54,7 @@
 @@||mos.ru^
 @@||mosmetro.ru^
 @@||mosmetro.tech^
+@@||mosreg.ru^
 @@||mts.ru^
 @@||mtsbank.ru^
 @@||mtsdengi.ru^
@@ -65,14 +64,15 @@
 @@||nalog.ru^
 @@||ngenix.net^
 @@||notariat.ru^
+@@||nspk.com^
 @@||nspk.ru^
+@@||okcdn.ru^
+@@||oneme.ru^
 @@||otpbank.ru^
 @@||pixelrepair.withgoogle.com^
 @@||platimultiqr.ru^
 @@||platiqr.ru^
 @@||pochta.ru^
-@@||pochtabank.ru^
-@@||preset.myoffice-app.ru^
 @@||privetmir.ru^
 @@||push.yandex.com^
 @@||push.yandex.ru^
@@ -82,7 +82,6 @@
 @@||rrtp.ru^
 @@||rsb.ru^
 @@||rshb.ru^
-@@||rt.ru^
 @@||russia.ru^
 @@||russianpost.ru^
 @@||russiapp.ru^
@@ -100,7 +99,6 @@
 @@||skillsnet.ru^
 @@||sso.passport.yandex.ru^
 @@||startup.mobile.yandex.net^
-@@||stoloto.ru^
 @@||suggestions.dadata.ru^
 @@||synergy.ru^
 @@||t2.ru^
@@ -113,7 +111,7 @@
 @@||troika-gorod.ru^
 @@||troikamos.ru^
 @@||trudvsem.ru^
-@@||ventrago.ru^
+@@||vamprivet.ru^
 @@||vtb.ru^
 @@||wallet.tg^
 @@||xn--80akicokc0aablc.xn--p1ai^
