@@ -22,6 +22,7 @@
 @@||ebs.ru^
 @@||elec.moscow^
 @@||emias.info^
+@@||emias.ru^
 @@||esia-st.ru^
 @@||flash.android.com^
 @@||gazfond-pn.ru^
@@ -52,12 +53,14 @@
 @@||mirpayonline.ru^
 @@||mobile.tg^
 @@||mos.ru^
+@@||mosgorzdrav.ru^
 @@||mosmetro.ru^
 @@||mosmetro.tech^
 @@||mosreg.ru^
 @@||mts.ru^
 @@||mtsbank.ru^
 @@||mtsdengi.ru^
+@@||mts-ws.net^
 @@||multiqr.ru^
 @@||multiqrpay.ru^
 @@||mymts.ru^
@@ -73,6 +76,7 @@
 @@||platimultiqr.ru^
 @@||platiqr.ru^
 @@||pochta.ru^
+@@||polyclinika.ru^
 @@||privetmir.ru^
 @@||push.yandex.com^
 @@||push.yandex.ru^
@@ -111,6 +115,7 @@
 @@||troika-gorod.ru^
 @@||troikamos.ru^
 @@||trudvsem.ru^
+@@||tvoyodbo.online^
 @@||vamprivet.ru^
 @@||vtb.ru^
 @@||wallet.tg^
