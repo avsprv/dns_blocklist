@@ -1,4 +1,4 @@
-! Title: avsprv_bwlist_ag^
+! Title: avsprv_bwlist_ag
 @@||4pda.to^
 @@||adguard-dns.com^
 @@||adguard-dns.io^
@@ -57,10 +57,10 @@
 @@||mosmetro.ru^
 @@||mosmetro.tech^
 @@||mosreg.ru^
+@@||mts-ws.net^
 @@||mts.ru^
 @@||mtsbank.ru^
 @@||mtsdengi.ru^
-@@||mts-ws.net^
 @@||multiqr.ru^
 @@||multiqrpay.ru^
 @@||mymts.ru^
