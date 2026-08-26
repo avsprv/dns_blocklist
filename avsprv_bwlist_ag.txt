@@ -57,6 +57,7 @@
 @@||mosmetro.ru^
 @@||mosmetro.tech^
 @@||mosreg.ru^
+@@||mti.moscow^
 @@||mts-ws.net^
 @@||mts.ru^
 @@||mtsbank.ru^
