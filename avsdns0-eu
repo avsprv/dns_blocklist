@@ -187,6 +187,8 @@
 ||flowmusic.app^$dnsrewrite=217.60.245.233
 ||flow.google^$dnsrewrite=217.60.245.219
 ||flow.google^$dnsrewrite=217.60.245.233
+||flow.google.com^$dnsrewrite=217.60.245.219
+||flow.google.com^$dnsrewrite=217.60.245.233
 ||fitbitvestibuleshim-pa.googleapis.com^$dnsrewrite=217.60.245.219
 ||fitbitvestibuleshim-pa.googleapis.com^$dnsrewrite=217.60.245.233
 ||fitbit.google.com^$dnsrewrite=217.60.245.219
